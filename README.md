@@ -16,32 +16,26 @@
 
 ## 💻 Skills & Tools
 
-### 🔴 Offensive Security (Red Team) 😈
-| Skill | Tools | GIF |
-|-------|-------|-----|
-| Exploitation | Metasploit, SQLMap | <img src="https://media.giphy.com/media/l4pTcOa51gS9g5Yc0/giphy.gif" width="120"> |
-| Reconnaissance | Nmap, Shodan, Maltego | <img src="https://media.giphy.com/media/oEW06wK2dJg88/giphy.gif" width="120"> |
-| Password Cracking | John the Ripper | 🔑 |
-| Network Analysis | Wireshark | 🌐 |
-| Web Testing | Burp Suite | 🕷️ |
+### 🔴 Offensive Security (Red Team)
+- **Exploitation:** Metasploit ![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=metasploit)
+- **Reconnaissance:** Nmap ![Nmap](https://img.shields.io/badge/-Nmap-red?style=flat-square&logo=nmap), Shodan ![Shodan](https://img.shields.io/badge/-Shodan-blue?style=flat-square&logo=shodan)
+- **Password Cracking:** John the Ripper ![John](https://img.shields.io/badge/-John%20The%20Ripper-black?style=flat-square)
+- **Network Analysis:** Wireshark ![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square&logo=wireshark)
+- **Web Testing:** Burp Suite ![Burp](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat-square)
 
-### 🔵 Defensive Security (Blue Team) & DevOps 🔒
-| Skill | Tools | GIF |
-|-------|-------|-----|
-| SIEM & Threat Hunting | FortiGate SIEM, Wazuh, Volatility, Splunk | 🛡️ |
-| Network & Endpoint Security | FortiGate, WAFs, Sysmon | 🔐 |
-| Access Management | Keycloak | 🔑 |
-| Infrastructure Automation | Ansible, Terraform | ⚙️ |
-| Containerization | Docker, Kubernetes | <img src="https://media.giphy.com/media/l0IypA1T1H96c56vS/giphy.gif" width="120"> |
-| CI/CD & Security | Jenkins, SonarQube, OWASP ZAP | ⚡ |
-| Version Control | Git, GitHub, GitLab | 🖇️ |
-| Operating Systems | Linux | 🐧 |
+### 🔵 Defensive Security (Blue Team) & DevOps
+- **SIEM & Threat Hunting:** FortiGate SIEM, Wazuh, Volatility, Splunk
+- **Network & Endpoint Security:** FortiGate, WAFs, Sysmon
+- **Access Management:** Keycloak
+- **Infrastructure Automation:** Ansible ![Ansible](https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible), Terraform ![Terraform](https://img.shields.io/badge/-Terraform-blue?style=flat-square&logo=terraform)
+- **Containerization:** Docker ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker), Kubernetes ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
+- **CI/CD & Security:** Jenkins ![Jenkins](https://img.shields.io/badge/-Jenkins-red?style=flat-square&logo=jenkins), SonarQube, OWASP ZAP
+- **Version Control:** Git ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), GitHub ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+- **Operating Systems:** Linux ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ### ☁️ Cloud Security
-| Cloud | Tools & Services | Icon |
-|-------|----------------|------|
-| AWS | IAM, CloudWatch, GuardDuty, Security Hub | ☁️ |
-| Azure | Monitor, Security Center | 🔷 |
+- **AWS:** IAM, CloudWatch, GuardDuty, Security Hub ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
+- **Azure:** Monitor, Security Center ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure)
 
 ---
 
@@ -52,9 +46,6 @@
   </a>
   <a href="https://x.com/Mohamedbarikall">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
