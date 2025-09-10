@@ -1,41 +1,55 @@
 <div align="center">
   <img src="https://via.placeholder.com/200x200?text=Profile+Picture" alt="Profile Picture" style="border-radius:50%;">
   <h1>Hi, I'm Mohamed Sidi Ahmed! 👋</h1>
-  <p>Security Administrator from Mauritania, passionate about offensive & defensive cybersecurity.</p>
+  <p>Cybersecurity & DevSecOps Professional</p>
 </div>
 
 ---
 
-## 🛡️ Certifications
+## 🔴 Red Team (Offensive Security)
 <div align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Junior%20Pentester-blue?style=for-the-badge&logo=tryhackme" alt="TryHackMe Badge">
-  <img src="https://img.shields.io/badge/FortiGate-Certified%20Fundamental-orange?style=for-the-badge&logo=fortinet" alt="FortiGate Badge">
+  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Nmap-red?style=for-the-badge&logo=nmap" alt="Nmap">
+  <img src="https://img.shields.io/badge/SQLMap-blue?style=for-the-badge" alt="SQLMap">
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-black?style=for-the-badge" alt="John the Ripper">
+  <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Maltego-green?style=for-the-badge" alt="Maltego">
 </div>
 
 ---
 
-## 💻 Skills & Tools
+## 🔵 Blue Team (Defensive Security / SOC)
+<div align="center">
+  <img src="https://img.shields.io/badge/Wazuh-red?style=for-the-badge" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Elasticsearch-blue?style=for-the-badge&logo=elastic" alt="Elasticsearch">
+  <img src="https://img.shields.io/badge/Kibana-orange?style=for-the-badge&logo=elastic" alt="Kibana">
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge" alt="Splunk">
+  <img src="https://img.shields.io/badge/FortiGate-orange?style=for-the-badge" alt="FortiGate">
+  <img src="https://img.shields.io/badge/Keycloak-red?style=for-the-badge" alt="Keycloak">
+  <img src="https://img.shields.io/badge/OSQuery-black?style=for-the-badge" alt="OSQuery">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
+</div>
 
-### 🔴 Offensive Security (Red Team)
-- **Exploitation:** Metasploit ![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=metasploit)
-- **Reconnaissance:** Nmap ![Nmap](https://img.shields.io/badge/-Nmap-red?style=flat-square&logo=nmap), Shodan ![Shodan](https://img.shields.io/badge/-Shodan-blue?style=flat-square&logo=shodan)
-- **Password Cracking:** John the Ripper ![John](https://img.shields.io/badge/-John%20The%20Ripper-black?style=flat-square)
-- **Network Analysis:** Wireshark ![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square&logo=wireshark)
-- **Web Testing:** Burp Suite ![Burp](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat-square)
+---
 
-### 🔵 Defensive Security (Blue Team) & DevOps
-- **SIEM & Threat Hunting:** FortiGate SIEM, Wazuh, Volatility, Splunk
-- **Network & Endpoint Security:** FortiGate, WAFs, Sysmon
-- **Access Management:** Keycloak
-- **Infrastructure Automation:** Ansible ![Ansible](https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible), Terraform ![Terraform](https://img.shields.io/badge/-Terraform-blue?style=flat-square&logo=terraform)
-- **Containerization:** Docker ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker), Kubernetes ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
-- **CI/CD & Security:** Jenkins ![Jenkins](https://img.shields.io/badge/-Jenkins-red?style=flat-square&logo=jenkins), SonarQube, OWASP ZAP
-- **Version Control:** Git ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), GitHub ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-- **Operating Systems:** Linux ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-
-### ☁️ Cloud Security
-- **AWS:** IAM, CloudWatch, GuardDuty, Security Hub ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
-- **Azure:** Monitor, Security Center ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure)
+## ⚙️ DevOps & DevSecOps
+<div align="center">
+  <img src="https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible" alt="Ansible">
+  <img src="https://img.shields.io/badge/Terraform-blue?style=for-the-badge&logo=terraform" alt="Terraform">
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logo=gitlab" alt="GitLab">
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-orange?style=for-the-badge" alt="OWASP ZAP">
+  <img src="https://img.shields.io/badge/SonarQube-blue?style=for-the-badge" alt="SonarQube">
+  <img src="https://img.shields.io/badge/Aqua%20Security-blue?style=for-the-badge" alt="Aqua Security">
+  <img src="https://img.shields.io/badge/Trivy-blue?style=for-the-badge" alt="Trivy">
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure">
+</div>
 
 ---
 
@@ -49,6 +63,6 @@
   </a>
 </div>
 
----
-
-<p align="center">Feel free to reach out to me for collaboration or opportunities.</p>
+<p align="center">
+Feel free to reach out to me for collaboration or opportunities.
+</p>
