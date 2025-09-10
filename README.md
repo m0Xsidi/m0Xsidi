@@ -1,70 +1,63 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://via.placeholder.com/200x200%3Ftext%3DProfile%2BPicture" alt="Your Profile Picture" style="border-radius: 50%;">
+  <img src="https://via.placeholder.com/200x200?text=Profile+Picture" alt="Profile Picture" style="border-radius:50%;">
+  <h1>Hi, I'm Mohamed Sidi Ahmed! 👋</h1>
+  <p>Security Administrator from Mauritania, passionate about offensive & defensive cybersecurity.</p>
 </div>
-Hi, I'm Mohamed Sidi Ahmed! 👋
 
-I'm a Security Administrator from Mauritania, with a passion for both offensive and defensive cybersecurity. I'm actively involved in securing network infrastructure and applications, including FortiGate SIEM and network configuration. I continuously sharpen my skills through CTF challenges on platforms like TryHackMe and Hack The Box.
-🛡️ Certifications
+---
 
-    TryHackMe: Junior Penetration Tester
+## 🛡️ Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Junior%20Pentester-blue?style=for-the-badge&logo=tryhackme" alt="TryHackMe Badge">
+  <img src="https://img.shields.io/badge/FortiGate-Certified%20Fundamental-orange?style=for-the-badge&logo=fortinet" alt="FortiGate Badge">
+</div>
 
-    FortiGate: Certified Fundamental
+---
 
-💻 Skills & Tools
-Offensive Security (Red Team) 😈
+## 💻 Skills & Tools
 
-    Exploitation: Metasploit, SQLMap
-    <img src="https://www.google.com/search?q=https://media.giphy.com/media/l4pTcOa51gS9g5Yc0/giphy.gif" width="200" alt="Metasploit GIF">
+### 🔴 Offensive Security (Red Team) 😈
+| Skill | Tools | GIF |
+|-------|-------|-----|
+| Exploitation | Metasploit, SQLMap | <img src="https://media.giphy.com/media/l4pTcOa51gS9g5Yc0/giphy.gif" width="120"> |
+| Reconnaissance | Nmap, Shodan, Maltego | <img src="https://media.giphy.com/media/oEW06wK2dJg88/giphy.gif" width="120"> |
+| Password Cracking | John the Ripper | 🔑 |
+| Network Analysis | Wireshark | 🌐 |
+| Web Testing | Burp Suite | 🕷️ |
 
-    Reconnaissance: Nmap, Shodan, Maltego
-    <img src="https://www.google.com/search?q=https://media.giphy.com/media/oEW06wK2dJg88/giphy.gif" width="200" alt="Nmap GIF">
+### 🔵 Defensive Security (Blue Team) & DevOps 🔒
+| Skill | Tools | GIF |
+|-------|-------|-----|
+| SIEM & Threat Hunting | FortiGate SIEM, Wazuh, Volatility, Splunk | 🛡️ |
+| Network & Endpoint Security | FortiGate, WAFs, Sysmon | 🔐 |
+| Access Management | Keycloak | 🔑 |
+| Infrastructure Automation | Ansible, Terraform | ⚙️ |
+| Containerization | Docker, Kubernetes | <img src="https://media.giphy.com/media/l0IypA1T1H96c56vS/giphy.gif" width="120"> |
+| CI/CD & Security | Jenkins, SonarQube, OWASP ZAP | ⚡ |
+| Version Control | Git, GitHub, GitLab | 🖇️ |
+| Operating Systems | Linux | 🐧 |
 
-    Password Cracking: John the Ripper
+### ☁️ Cloud Security
+| Cloud | Tools & Services | Icon |
+|-------|----------------|------|
+| AWS | IAM, CloudWatch, GuardDuty, Security Hub | ☁️ |
+| Azure | Monitor, Security Center | 🔷 |
 
-    Network Analysis: Wireshark
+---
 
-    Web Testing: Burp Suite
+## 🔗 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-sidi-ahmed-1b991a270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Mohamedbarikall">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-Defensive Security (Blue Team) & DevOps 🔒
+---
 
-    SIEM & Threat Hunting: FortiGate SIEM, Wazuh, Volatility, Splunk
-
-    Network & Endpoint Security: FortiGate, Web Application Firewalls (WAFs), Sysmon
-
-    Access Management: Keycloak
-
-    Infrastructure Automation: Ansible, Terraform
-
-    Containerization: Docker, Kubernetes (k8s)
-    <img src="https://www.google.com/search?q=https://media.giphy.com/media/l0IypA1T1H96c56vS/giphy.gif" width="200" alt="Docker GIF">
-
-    CI/CD & Security: Jenkins, SonarQube, OWASP ZAP
-
-    Version Control: Git, GitHub, GitLab
-
-    Operating Systems: Linux
-
-Cloud Security ☁️
-
-    Cloud Platforms: AWS, Azure
-
-    Identity & Access Management: AWS IAM
-
-    Monitoring & Logging: AWS CloudWatch, Azure Monitor
-
-    Security Services: Azure Security Center, AWS GuardDuty, AWS Security Hub
-
-🔗 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mohamed-sidi-ahmed-1b991a270/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="https://x.com/Mohamedbarikall">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="Twitter">
-</a>
-</p>
-
-<p align="center">
-Made with ❤️ from Mauritania
-</p>
+<p align="center">Feel free to reach out to me for collaboration or opportunities.</p>
